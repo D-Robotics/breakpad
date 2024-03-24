@@ -1,8 +1,9 @@
-English| [简体中文](./README_cn.md)
+[English](./README.md) | 简体中文
 
 # Breakpad
 
-Breakpad is a set of client and server components which implement a crash-reporting system.
+Breakpad is a set of client and server components which implement a
+crash-reporting system.
 
 * [Homepage](https://chromium.googlesource.com/breakpad/breakpad/)
 * [Documentation](./docs/)
